@@ -1809,7 +1809,7 @@
   <anime anidbid="418" tvdbid="81095" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Mahoujin Guru Guru (1996)</name>
   </anime>
-  <anime anidbid="419" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="55374" imdbid="tt0098202">
+  <anime anidbid="419" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="55374" imdbid="tt0098202">
     <name>Riding Bean</name>
   </anime>
   <anime anidbid="420" tvdbid="81997" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2391,7 +2391,7 @@
   <anime anidbid="576" tvdbid="78923" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt0095448">
     <name>Kimagure Orange Road: Ano Hi ni Kaeritai</name>
   </anime>
-  <anime anidbid="578" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="578" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Black Magic M-66</name>
   </anime>
   <anime anidbid="579" tvdbid="247789" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2758,7 +2758,7 @@
   <anime anidbid="688" tvdbid="73495" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ike! Ina-chuu Takkyuubu</name>
   </anime>
-  <anime anidbid="689" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="131597" imdbid="">
+  <anime anidbid="689" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="131597" imdbid="">
     <name>Early Reins</name>
   </anime>
   <anime anidbid="690" tvdbid="103571" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2973,7 +2973,7 @@
   <anime anidbid="747" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shuusaku: Replay</name>
   </anime>
-  <anime anidbid="748" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="68828" imdbid="">
+  <anime anidbid="748" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="68828" imdbid="">
     <name>Outlanders</name>
   </anime>
   <anime anidbid="749" tvdbid="83309" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -4946,7 +4946,7 @@
   <anime anidbid="1361" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0086515">
     <name>Unico: Mahou no Shima e</name>
   </anime>
-  <anime anidbid="1362" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="1362" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sotsugyou M: Oretachi no Carnival</name>
   </anime>
   <anime anidbid="1363" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
