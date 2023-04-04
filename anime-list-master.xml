@@ -47384,7 +47384,7 @@
   <anime anidbid="17233" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ootsuchi Kai Monogatari: Departure</name>
   </anime>
-  <anime anidbid="17235" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17235" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="863722" imdbid="">
     <name>Honekami</name>
   </anime>
   <anime anidbid="17236" tvdbid="371310" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -47519,7 +47519,7 @@
   <anime anidbid="17282" tvdbid="418218" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ren'ai Flops</name>
   </anime>
-  <anime anidbid="17283" tvdbid="427872" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17283" tvdbid="427872" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Opus Colors</name>
   </anime>
   <anime anidbid="17284" tvdbid="418265" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47537,7 +47537,7 @@
   <anime anidbid="17288" tvdbid="418340" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lv1 Maou to One Room Yuusha</name>
   </anime>
-  <anime anidbid="17289" tvdbid="418368" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17289" tvdbid="418368" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tonari no Youkai-san</name>
   </anime>
   <anime anidbid="17290" tvdbid="418367" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47579,10 +47579,10 @@
   <anime anidbid="17303" tvdbid="267440" defaulttvdbseason="4" episodeoffset="28" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin: The Final Season (2023)</name>
   </anime>
-  <anime anidbid="17304" tvdbid="418665" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17304" tvdbid="418665" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Watashi no Shiawase na Kekkon</name>
   </anime>
-  <anime anidbid="17305" tvdbid="418666" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17305" tvdbid="418666" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tongari Boushi no Atelier</name>
   </anime>
   <anime anidbid="17306" tvdbid="402545" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -47591,7 +47591,7 @@
   <anime anidbid="17308" tvdbid="414750" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wo De Yi Jie Zhi Lu</name>
   </anime>
-  <anime anidbid="17309" tvdbid="418391" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17309" tvdbid="418391" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wu Ying Sanqian Dao</name>
   </anime>
   <anime anidbid="17310" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -47638,6 +47638,36 @@
   </anime>
   <anime anidbid="17325" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pandemic</name>
+  </anime>
+  <anime anidbid="17326" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nanaraki: Seven Lucky Gods</name>
+  </anime>
+  <anime anidbid="17327" tvdbid="383837" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shaman King: Flowers</name>
+  </anime>
+  <anime anidbid="17328" tvdbid="419278" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <name>Onii-chan wa Oshimai!</name>
+  </anime>
+  <anime anidbid="17329" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiga Kaiketsu Zorori: Lalala Star Tanjou</name>
+  </anime>
+  <anime anidbid="17330" tvdbid="419283" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cool Doji Danshi</name>
+  </anime>
+  <anime anidbid="17331" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Nemurenai Ookami</name>
+  </anime>
+  <anime anidbid="17332" tvdbid="414741" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bing Huo Mo Chu</name>
+  </anime>
+  <anime anidbid="17333" tvdbid="404591" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xinghe Zhizun Di Er Ji</name>
+  </anime>
+  <anime anidbid="17334" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="1047041" imdbid="">
+    <name>Meitantei Conan: Kurogane no Submarine</name>
+  </anime>
+  <anime anidbid="17335" tvdbid="419414" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ni Zhenshi Ge Tiancai</name>
   </anime>
   <anime anidbid="17326" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nanaraki: Seven Lucky Gods</name>
